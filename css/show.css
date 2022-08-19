@@ -1,0 +1,253 @@
+.ver {
+    padding: 10px;
+    background-color: rgb(1, 39, 56);
+    color: white;
+    font-size: 1.6rem;
+}
+
+.ver:hover {
+    cursor: pointer;
+    background-color: rgb(0, 102, 128);
+}
+
+
+/**Modulo1*/
+
+#show,
+#hide {
+    display: none;
+}
+
+div#modulo {
+    display: none;
+    background-color: #f6f6f6;
+    cursor: pointer;
+}
+
+input#show:checked~div#modulo {
+    display: block;
+}
+
+input#hide:checked~div#modulo {
+    display: none;
+}
+
+
+/**Modulo2*/
+
+#show2,
+#hide2 {
+    display: none;
+}
+
+div#modulo2 {
+    display: none;
+    background-color: #f6f6f6;
+    cursor: pointer;
+}
+
+input#show2:checked~div#modulo2 {
+    display: block;
+}
+
+input#hide2:checked~div#modulo2 {
+    display: none;
+}
+
+
+/**Modulo3*/
+
+#show3,
+#hide3 {
+    display: none;
+}
+
+div#modulo3 {
+    display: none;
+    background-color: #f6f6f6;
+    cursor: pointer;
+}
+
+input#show3:checked~div#modulo3 {
+    display: block;
+}
+
+input#hide3:checked~div#modulo3 {
+    display: none;
+}
+
+
+/**Modulo4*/
+
+#show4,
+#hide4 {
+    display: none;
+}
+
+div#modulo4 {
+    display: none;
+    background-color: #f6f6f6;
+    cursor: pointer;
+}
+
+input#show4:checked~div#modulo4 {
+    display: block;
+}
+
+input#hide4:checked~div#modulo4 {
+    display: none;
+}
+
+
+/**Modulo5*/
+
+#show5,
+#hide5 {
+    display: none;
+}
+
+div#modulo5 {
+    display: none;
+    background-color: #f6f6f6;
+    cursor: pointer;
+}
+
+input#show5:checked~div#modulo5 {
+    display: block;
+}
+
+input#hide5:checked~div#modulo5 {
+    display: none;
+}
+
+
+/**Modulo6*/
+
+#show6,
+#hide6 {
+    display: none;
+}
+
+div#modulo6 {
+    display: none;
+    background-color: #f6f6f6;
+    cursor: pointer;
+}
+
+input#show6:checked~div#modulo6 {
+    display: block;
+}
+
+input#hide6:checked~div#modulo6 {
+    display: none;
+}
+
+
+/**Modulo7*/
+
+#show7,
+#hide7 {
+    display: none;
+}
+
+div#modulo7 {
+    display: none;
+    background-color: #f6f6f6;
+    cursor: pointer;
+}
+
+input#show7:checked~div#modulo7 {
+    display: block;
+}
+
+input#hide7:checked~div#modulo7 {
+    display: none;
+}
+
+
+/**Modulo8*/
+
+#show8,
+#hide8 {
+    display: none;
+}
+
+div#modulo8 {
+    display: none;
+    background-color: #f6f6f6;
+    cursor: pointer;
+}
+
+input#show8:checked~div#modulo8 {
+    display: block;
+}
+
+input#hide8:checked~div#modulo8 {
+    display: none;
+}
+
+
+/**Modulo8*/
+
+#show9,
+#hide9 {
+    display: none;
+}
+
+div#modulo9 {
+    display: none;
+    background-color: #f6f6f6;
+    cursor: pointer;
+}
+
+input#show9:checked~div#modulo9 {
+    display: block;
+}
+
+input#hide9:checked~div#modulo9 {
+    display: none;
+}
+
+
+/**Modulo9*/
+
+#show10,
+#hide10 {
+    display: none;
+}
+
+div#modulo10 {
+    display: none;
+    background-color: #f6f6f6;
+    cursor: pointer;
+}
+
+input#show10:checked~div#modulo10 {
+    display: block;
+}
+
+input#hide10:checked~div#modulo10 {
+    display: none;
+}
+
+
+/**Modulo10*/
+
+#show11,
+#hide11 {
+    display: none;
+}
+
+div#modulo11 {
+    display: none;
+    background-color: #f6f6f6;
+    cursor: pointer;
+}
+
+input#show11:checked~div#modulo11 {
+    display: block;
+}
+
+input#hide11:checked~div#modulo11 {
+    display: none;
+}

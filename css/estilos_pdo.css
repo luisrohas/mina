@@ -1,0 +1,117 @@
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+    /*Reset para REMS - 62.5% = 10px de 16px*/
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    font-size: 2rem;
+    background-color: rgb(195, 196, 194);
+    color: rgb(255, 255, 255);
+}
+
+
+/*Global*/
+
+img {
+    max-width: 100%;
+}
+
+.contenedor {
+    max-width: 120rem;
+    /* = 1200px */
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 3.8rem;
+    text-align: center;
+}
+
+h2 {
+    font-size: 3.4rem;
+}
+
+h3 {
+    font-size: 3rem;
+}
+
+h4 {
+    font-size: 2.6rem;
+}
+
+p {
+    color: black;
+    font-size: 36px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/** tablas*/
+
+table {
+    width: 80%;
+    margin: 0 auto;
+    font-size: 1.6rem;
+    padding-top: 0rem;
+}
+
+th {
+    background-color: rgb(15, 50, 102);
+    color: white;
+    text-align: left;
+}
+
+table,
+th,
+td {
+    /**border: 1px solid rgb(86, 112, 161);*/
+    border: none;
+    border-spacing: 0;
+}
+
+tr:nth-child(odd) {
+    background: rgb(236, 226, 210);
+    color: black;
+}
+
+tr:nth-child(even) {
+    background: rgb(201, 201, 201);
+    color: black;
+}
+
+th,
+td {
+    padding: 1rem;
+}
+
+.index {
+    padding-left: 3rem;
+}
+
+.estatus {
+    text-align: center;
+}
+
+.active {
+    background-color: rgb(54, 99, 60);
+    color: rgb(129, 255, 117);
+}
+
+.inactive {
+    background-color: rgb(110, 53, 53);
+    color: rgb(255, 119, 119);
+}
+
+.regresar {
+    position: absolute;
+    left: 10%;
+}
